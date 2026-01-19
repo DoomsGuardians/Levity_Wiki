@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "389cb0122003abab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e077f168bd713b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2656164a8719925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "历史/时间线.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "时间线"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d316919e8bbc82a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6e7de999f16b39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc471dec1347198",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f8bbc473699a09cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8ac3e93ae5378a54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fa1b9ac2c1a14ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc4af8996a54a2ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "041a6df1a3222564",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "核心概念/轻力场文明.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "轻力场文明 的反向链接列表"
+            }
+          },
+          {
+            "id": "def4349d6940d2db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "核心概念/轻力场文明.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "轻力场文明 的出链列表"
+            }
+          },
+          {
+            "id": "7e0ea26ceb1bd0dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8bd94bfb13947e1f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b578db285bfaf108",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "核心概念/轻力场文明.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "轻力场文明 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "d2656164a8719925",
+  "lastOpenFiles": [
+    "历史/崩落战役.md",
+    "历史/百家之乱.md",
+    "势力与组织/晓朝.md",
+    "势力与组织/礼乐制度.md",
+    "势力与组织/战争游戏.md",
+    "势力与组织/净明教.md",
+    "核心概念/三枚密钥.md",
+    "核心概念/神机网络.md",
+    "核心概念/戒子系统.md",
+    "HOME.md",
+    "地理与结构/Aeros.md",
+    "地理与结构/中间层.md",
+    "地理与结构/天机.md",
+    "地理与结构/生产海.md",
+    "地理与结构/破碎群岛.md",
+    "地理与结构/核心层.md",
+    "地理与结构/地面层.md",
+    "地理与结构/大空洞.md",
+    "核心概念/灾变.md",
+    "核心概念/确证意识.md",
+    "核心概念/轻力场文明.md",
+    "核心概念/场化.md",
+    "核心概念/策网.md",
+    "历史/时间线.md",
+    "人物与家族/楷国.md",
+    "人物与家族/叶氏.md"
+  ]
+}
