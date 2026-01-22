@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "机缘"
             }
+          },
+          {
+            "id": "87d9e9a2a3d4c032",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人物与家族/森蒂诺.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "森蒂诺"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,20 +190,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "d2656164a8719925",
+  "active": "87d9e9a2a3d4c032",
   "lastOpenFiles": [
+    "势力与组织/明典.md",
+    "人物与家族/依格妮塔（开明居士).md",
+    "人物与家族/森蒂诺.md",
+    "势力与组织/净明教.md",
+    "势力与组织/承影学派.md",
+    "历史/时间线.md",
+    "历史/百家之乱.md",
+    "历史/明堂之战.md",
+    "历史/明珠案.md",
+    "历史/永安之约.md",
+    "历史/钟殿之议.md",
+    "势力与组织/目枢.md",
+    "历史/后继者之乱.md",
+    "势力与组织/司目.md",
+    "历史/见钟堂事变.md",
+    "地理与结构/大空洞.md",
     "势力与组织/战争游戏.md",
     "势力与组织/平海社.md",
-    "势力与组织/承影学派.md",
     "人物与家族/篆国.md",
     "人物与家族/晓文帝.md",
     "人物与家族/晓武帝.md",
@@ -195,21 +226,6 @@
     "人物与家族/练氏.md",
     "人物与家族/燧国.md",
     "人物与家族/燕铮.md",
-    "人物与家族/行国.md",
-    "人物与家族/陆芸娘.md",
-    "历史/合纵远征.md",
-    "历史/分海之议.md",
-    "历史/根氏之乱.md",
-    "历史/梁津围城.md",
-    "历史/永安之约.md",
-    "历史/乱世政治实验.md",
-    "历史/百家之乱.md",
-    "历史/崩落战役.md",
-    "人物与家族/楷国.md",
-    "人物与家族/草国.md",
-    "势力与组织/净明教.md",
-    "历史/时间线.md",
-    "势力与组织/晓朝.md",
-    "势力与组织/礼乐制度.md"
+    "人物与家族/行国.md"
   ]
 }
