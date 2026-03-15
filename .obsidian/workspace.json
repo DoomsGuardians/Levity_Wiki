@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a6819441160f127e",
+        "id": "e7f1465b3ff025d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e57ae861d5ae7fd3",
+            "id": "b8f65f4cba7bce13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "HOME 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -164,12 +159,23 @@
               "icon": "lucide-list",
               "title": "轻力场文明 的大纲"
             }
+          },
+          {
+            "id": "7ba506e369af99e7",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 486.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +185,26 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "claudian:Open Claudian": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e57ae861d5ae7fd3",
+  "active": "7ba506e369af99e7",
   "lastOpenFiles": [
+    "未命名.base",
+    "2026-03-15.md",
+    "未命名.canvas",
+    "06-人物与家族/家族/颜氏.md",
+    "06-人物与家族/家族/叶氏.md",
+    "06-人物与家族/家族/姬氏.md",
+    "06-人物与家族/家族/练氏.md",
+    "06-人物与家族/家族/根氏.md",
+    "05-势力与组织/晓朝时期/诸侯国/隶国.md",
+    "05-势力与组织/晓朝时期/诸侯国/楷国.md",
+    "01-世界观基础/物理结构/大空洞.md",
+    "01-世界观基础/物理结构/阶梯.md",
+    "HOME.md",
     "03-社会制度/文化概念/建筑与城市.md",
     "03-社会制度/文化概念/惩戒营.md",
     "03-社会制度/政治制度/人口与行政.md",
@@ -198,18 +219,6 @@
     "05-势力与组织/战国时期/其他势力/同炉坊.md",
     "05-势力与组织/战国时期/其他势力/守典祠.md",
     "05-势力与组织/战国时期/军阀势力/执筹.md",
-    "05-势力与组织/战国时期/军阀势力/央泽会盟.md",
-    "05-势力与组织/战国时期/军阀势力/玄朔.md",
-    "05-势力与组织/战国时期/军阀势力/晓国.md",
-    "05-势力与组织/战国时期/军阀势力/南津.md",
-    "05-势力与组织/战国时期/军阀势力/栾国.md",
-    "05-势力与组织/战国时期/军阀势力/流放派.md",
-    "05-势力与组织/战国时期/军阀势力/东庭.md",
-    "05-势力与组织/战国时期/百炼系/百炼.md",
-    "05-势力与组织/战国时期/百炼系/崩落派.md",
-    "05-势力与组织/战国时期/百炼系/黎元派.md",
-    "05-势力与组织/README.md",
-    "04-历史演进/时间线.md",
     "sedH4mV4b",
     "01-世界观基础/人类地理/要塞关隘",
     "01-世界观基础/人类地理/区域",
@@ -219,7 +228,6 @@
     "06-人物与家族/重要人物/百炼时代",
     "06-人物与家族/重要人物/晓朝人物",
     "06-人物与家族/重要人物/宗教领袖",
-    "06-人物与家族/重要人物/乱世群雄",
-    "未命名.canvas"
+    "06-人物与家族/重要人物/乱世群雄"
   ]
 }

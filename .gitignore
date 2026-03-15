@@ -1,2 +1,6 @@
 *.json
 CLAUDE.md
+.obsidian/plugins/claudian/main.js
+.obsidian/plugins/claudian/styles.css
+.obsidian/plugins/obsidian42-brat/main.js
+.obsidian/plugins/obsidian42-brat/styles.css
