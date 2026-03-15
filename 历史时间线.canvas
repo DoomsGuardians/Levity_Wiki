@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"timeline-title","type":"text","text":"# Levity 历史时间线\n\n从密钥夺取到晓朝时期的完整历史","x":0,"y":-200,"width":1200,"height":100,"color":"6"},
+		{"id":"y-15","type":"file","file":"04-历史演进/密钥夺取期(Y-15~Y0)/裂隙会议.md","x":-1260,"y":0,"width":250,"height":340,"color":"1"},
+		{"id":"y0","type":"text","text":"## Y0：密钥夺取\n\n**百炼**成功夺取三枚密钥\n- 回收协议中断\n- 真相公开\n- [[百家之乱]]爆发","x":-600,"y":70,"width":280,"height":200,"color":"5"},
+		{"id":"y3","type":"file","file":"04-历史演进/乱世前期(Y0~Y35)/断梁之溃.md","x":-200,"y":0,"width":250,"height":320,"color":"2"},
+		{"id":"y5","type":"file","file":"04-历史演进/乱世前期(Y0~Y35)/崩落战役.md","x":520,"y":0,"width":250,"height":280,"color":"2"},
+		{"id":"consequences-y5","type":"text","text":"### 崩落战役后果\n\n- [[大空洞]]形成\n- 密钥分散：\n  - [[策网]] → 流放派 → [[黎元派]]\n  - [[忆室]][[存基]] → [[练氏]]","x":520,"y":340,"width":250,"height":220,"color":"1"},
+		{"id":"luanshi","type":"text","text":"### 百家之乱 (Y0-Y110)\n\n- 军阀混战\n- [[东庭]][[南津]][[玄朔]]等势力\n- [[晓国]]变法崛起\n- [[净明教]]垄断技术","x":1120,"y":380,"width":280,"height":180,"color":"1"},
+		{"id":"y72","type":"file","file":"04-历史演进/乱世后期(Y35~Y110)/灭烛之议.md","x":1135,"y":-20,"width":250,"height":320,"color":"3"},
+		{"id":"y110","type":"text","text":"## Y110：晓朝建立\n\n[[晓武帝]]统一中间层\n- 百年乱世结束\n- [[礼乐制度]]建立\n- 与[[净明教]]权力分割","x":1815,"y":40,"width":280,"height":200,"color":"5"},
+		{"id":"xiaochao-events","type":"text","text":"### 晓朝重要事件\n\n- Y125-135: [[合纵远征]]\n- Y312-315: [[根氏之乱]]\n- Y298-302: [[三公子之乱]]","x":2520,"y":340,"width":250,"height":180,"color":"1"},
+		{"id":"y195","type":"file","file":"04-历史演进/晓朝时期(Y110~)/永安之约.md","x":2520,"y":40,"width":250,"height":200,"color":"4"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"y-15","fromSide":"right","toNode":"y0","toSide":"left","label":"密钥夺取计划"},
+		{"id":"e2","fromNode":"y0","fromSide":"right","toNode":"y3","toSide":"left","label":"百炼分裂"},
+		{"id":"e3","fromNode":"y3","fromSide":"right","toNode":"y5","toSide":"left","label":"激进派掌权"},
+		{"id":"e4","fromNode":"y5","fromSide":"right","toNode":"y72","toSide":"left","label":"乱世演变"},
+		{"id":"e5","fromNode":"y72","fromSide":"right","toNode":"y110","toSide":"left","label":"净明教崛起"},
+		{"id":"e6","fromNode":"y110","fromSide":"right","toNode":"y195","toSide":"left","label":"权力格局稳定"},
+		{"id":"e7","fromNode":"y5","fromSide":"bottom","toNode":"consequences-y5","toSide":"top"},
+		{"id":"e8","fromNode":"y72","fromSide":"bottom","toNode":"luanshi","toSide":"top"},
+		{"id":"e9","fromNode":"y195","fromSide":"bottom","toNode":"xiaochao-events","toSide":"top"}
+	]
+}

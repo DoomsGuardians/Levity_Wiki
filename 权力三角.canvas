@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# 晓朝权力格局\n\n天子、净明教、练氏的三角制衡","x":0,"y":-400,"width":800,"height":100,"color":"6"},
+		{"id":"xiaochao","type":"file","file":"05-势力与组织/晓朝时期/中央/晓朝.md","x":-400,"y":0,"width":300,"height":250,"color":"5"},
+		{"id":"jingming","type":"file","file":"05-势力与组织/跨时期组织/净明教/净明教.md","x":400,"y":0,"width":300,"height":250,"color":"3"},
+		{"id":"lianshi","type":"file","file":"06-人物与家族/家族/练氏.md","x":0,"y":400,"width":300,"height":250,"color":"2"},
+		{"id":"zhuhou","type":"text","text":"### 诸侯国\n\n- [[楷国]]（最强姬姓）\n- [[隶国]]（老牌强国）\n- [[燧国]]（军事强国）\n- [[篆国]]（半神权）\n- [[草国]]（已灭）\n- [[行国]]（商业）","x":-800,"y":0,"width":250,"height":250,"color":"1"},
+		{"id":"miyao","type":"text","text":"### 三枚密钥分布\n\n**[[策网]]**：净明教秘密持有\n- 控制[[神机网络]]\n- 垄断技术\n\n**[[忆室]]**：练氏持有\n**[[存基]]**：练氏持有\n- 被[[隔离笼]]囚禁\n- 无法使用","x":0,"y":-100,"width":300,"height":250,"color":"4"},
+		{"id":"yongan","type":"file","file":"04-历史演进/晓朝时期(Y110~)/永安之约.md","x":800,"y":200,"width":280,"height":200,"color":"4"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"xiaochao","fromSide":"right","toNode":"jingming","toSide":"left","label":"名义统治 vs 技术垄断","color":"5"},
+		{"id":"e2","fromNode":"jingming","fromSide":"bottom","toNode":"lianshi","toSide":"right","label":"试图夺取忆室/存基","color":"2"},
+		{"id":"e3","fromNode":"xiaochao","fromSide":"bottom","toNode":"lianshi","toSide":"left","label":"监视与囚禁","color":"1"},
+		{"id":"e4","fromNode":"xiaochao","fromSide":"left","toNode":"zhuhou","toSide":"right","label":"分封制度","color":"4"},
+		{"id":"e5","fromNode":"jingming","fromSide":"top","toNode":"miyao","toSide":"right","label":"持有策网"},
+		{"id":"e6","fromNode":"lianshi","fromSide":"top","toNode":"miyao","toSide":"bottom","label":"持有忆室/存基"},
+		{"id":"e7","fromNode":"xiaochao","fromSide":"right","toNode":"yongan","toSide":"left","label":"Y195年","color":"4"},
+		{"id":"e8","fromNode":"jingming","fromSide":"right","toNode":"yongan","toSide":"bottom","label":"权力分界","color":"4"}
+	]
+}
