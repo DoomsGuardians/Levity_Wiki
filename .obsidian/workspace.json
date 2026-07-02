@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a592c4ec0348ab5",
+        "id": "6de1f524ea97de0e",
         "type": "tabs",
         "children": [
           {
-            "id": "93abac083c56602e",
+            "id": "b1bb458f0c4dc428",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-世界观基础/物理结构/地面层.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "地面层"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "claude",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,35 +189,36 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "93abac083c56602e",
+  "active": "4fc471dec1347198",
   "lastOpenFiles": [
-    "01-世界观基础/物理结构/阶梯.md",
-    "01-世界观基础/物理结构/核心层.md",
-    "01-世界观基础/物理结构/中间层.md",
-    "01-世界观基础/起源/观测锚.md",
-    "01-世界观基础/起源/确证意识.md",
-    "00-参考资料/设定边界.md",
+    "LevityWiki/desktop.ini",
+    "LevityWiki",
+    "LevityWiki/CLAUDE.md",
+    "LevityWiki/00-参考资料/词条状态标记规范.md",
+    "LevityWiki/01-世界观基础/物理结构/地面层.md",
+    "LevityWiki/01-世界观基础/物理结构/阶梯.md",
+    "LevityWiki/01-世界观基础/物理结构/核心层.md",
+    "LevityWiki/01-世界观基础/物理结构/中间层.md",
+    "LevityWiki/01-世界观基础/起源/观测锚.md",
+    "LevityWiki/01-世界观基础/起源/确证意识.md",
+    "LevityWiki/00-参考资料/设定边界.md",
     "未命名.base",
-    "01-世界观基础/物理结构/Aeros.md",
-    "01-世界观基础/核心系统/忆室.md",
-    "02-技术体系/工具与设备/蓄器.md",
+    "LevityWiki/01-世界观基础/物理结构/Aeros.md",
+    "LevityWiki/01-世界观基础/核心系统/忆室.md",
+    "LevityWiki/02-技术体系/工具与设备/蓄器.md",
     "00-参考资料/讨论计划与交接.md",
-    "02-技术体系/工具与设备/神经接口器.md",
-    "01-世界观基础/核心系统/神机网络.md",
-    "00-参考资料/设定更新日志.md",
-    "01-世界观基础/起源/轻力场.md",
-    "05-势力与组织/晓朝时期/学派组织/器理学.md",
-    "01-世界观基础/物理结构/破碎群岛.md",
-    "01-世界观基础/核心系统/密钥.md",
-    "01-世界观基础/起源/留守者.md",
-    "01-世界观基础/核心系统/戒子系统.md",
-    "03-社会制度/文化概念/建筑与城市.md",
-    "02-技术体系/经济与资源/回收经济.md",
-    "01-世界观基础/物理结构/隔离笼.md",
-    "01-世界观基础/物理结构/大空洞.md",
-    "01-世界观基础/核心系统/存基.md",
-    "01-世界观基础/起源/场化.md",
-    "01-世界观基础/起源/场感者演化史.md",
+    "LevityWiki/02-技术体系/工具与设备/神经接口器.md",
+    "LevityWiki/01-世界观基础/核心系统/神机网络.md",
+    "LevityWiki/00-参考资料/设定更新日志.md",
+    "LevityWiki/01-世界观基础/起源/轻力场.md",
+    "LevityWiki/05-势力与组织/晓朝时期/学派组织/器理学.md",
+    "LevityWiki/01-世界观基础/物理结构/破碎群岛.md",
+    "LevityWiki/01-世界观基础/核心系统/密钥.md",
+    "LevityWiki/01-世界观基础/起源/留守者.md",
+    "LevityWiki/01-世界观基础/核心系统/戒子系统.md",
+    "LevityWiki/03-社会制度/文化概念/建筑与城市.md",
+    "LevityWiki/02-技术体系/经济与资源/回收经济.md",
+    "LevityWiki/01-世界观基础/物理结构/隔离笼.md",
     "权力三角.canvas",
     "05-势力与组织/战国时期/百炼系/百炼.md.tmp.29748.cfa911c69bc1",
     "05-势力与组织/战国时期/百炼系/百炼.md.tmp.29748.248c6abe4443",
@@ -231,7 +228,6 @@
     "00-参考资料/设定更新日志.md.tmp.29748.fe90914a0b43",
     "01-世界观基础/人类地理/舆图基质.md.tmp.29748.12d2cd03ab55",
     "01-世界观基础/人类地理/舆图基质.md.tmp.29748.cba0c909645c",
-    "01-世界观基础/人类地理/晓朝舆图.md.tmp.29748.3b14c53be46c",
     "百炼演变.canvas",
     "历史时间线.canvas",
     "Aeros结构.canvas",
